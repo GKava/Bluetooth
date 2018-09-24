@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:2:1-91:12
+	package
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:9:22-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:13:22-71
+uses-feature#android.hardware.usb.accessory
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:15:19-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:18:22-75
+application
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:20:5-89:19
+activity#com.generalscan.activity.MainActivity
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:excludeFromRecents
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:23:13-46
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:22:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.generalscan.activity.bluetoothConnect.BluetoothConnectActivity
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:31:9-103
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:31:19-100
+activity#com.generalscan.activity.speech.SpeechSDKActivity
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:33:9-86
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:33:19-83
+activity#com.generalscan.activity.speech.SettingsSpeech
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:34:9-83
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:34:19-80
+activity#com.generalscan.activity.usb.UsbConnectActivity
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:37:9-52:20
+	android:label
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:41:13-44
+	android:configChanges
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:39:13-63
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:38:13-75
+intent-filter#action:name:android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:44:13-46:29
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:45:17-93
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:45:25-90
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:48:13-51:25
+	android:resource
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:50:17-60
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:49:17-82
+activity#com.generalscan.activity.usb.UsbServiceActivity
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:53:19-81
+activity#com.generalscan.activity.usb.UsbDataActivity
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:55:19-78
+activity#com.generalscan.activity.usbhost.UsbControllerActivity
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:59:13-82
+activity#com.generalscan.activity.usbhost.UsbSetActivity
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:62:9-65:20
+	android:launchMode
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:64:13-44
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:63:13-75
+service#com.generalscan.activity.usb.UsbService
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:67:9-69:38
+	android:enabled
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:69:13-35
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:68:13-67
+service#com.generalscan.bluetooth.connect.ATService
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:73:9-75:38
+	android:enabled
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:75:13-35
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:74:13-71
+service#com.generalscan.usb.connect.ATService
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:77:9-79:38
+	android:enabled
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:79:13-35
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:78:13-65
+service#com.generalscan.usb.suspension.FloatWindowService
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:81:9-84:19
+	android:enabled
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:83:13-35
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:82:13-77
+service#com.generalscan.usb.suspension.FloatWindowService$FloatWindowBindService
+ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:85:9-88:19
+	android:enabled
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:87:13-35
+	android:name
+		ADDED from D:\Android\Project\example1\app\src\main\AndroidManifest.xml:86:13-100
